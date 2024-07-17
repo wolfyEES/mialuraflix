@@ -1,0 +1,72 @@
+{
+    "videos": [
+        {
+            "id": 1,
+            "titulo": "¿Por que estudiar programacion?",
+            "categoria": "FRONTEND",
+            "imagen": "https://i.ytimg.com/vi/ov7vA5HFe6w/sddefault.jpg",
+            "video": "https://www.youtube.com/embed/PlaQ913yggM?si=MhIvJEDslQ-PDYgS",
+            "descripcion": " ¿Qué habilidades y competencias debe tener alguien que quiere seguir esa carrera? En este video nos habla de las principales razones para estudiarla"
+        },
+        
+        {
+            "id": 2,
+            "titulo": "¿Qué es JavaScript?",
+            "categoria": "FRONTEND",
+            "imagen": "https://i.ytimg.com/vi/GJfOSoaXk4s/mqdefault.jpg",
+            "video": "https://www.youtube.com/embed/GJfOSoaXk4s?si=Sy4rvrikw1n4x2-o",
+            "descripcion": "JavaScript"
+        },
+    
+        {
+            "id": 3,
+            "titulo": "Tus primeros pasos con Javascript",
+            "categoria": "FRONTEND",
+            "imagen": "https://i.ytimg.com/vi/rpvrLaBQwgg/maxresdefault.jpg",
+            "video": "https://www.youtube.com/embed/SAusS82-xQ0?si=Op8C5JYs6VxqontF",
+            "descripcion": "Quieres saber mas de Javascript?"
+        },
+        {
+            "id": 4,
+            "titulo": "Spring Framework. ¿Qué es ?",
+            "categoria": "BACKEND",
+            "imagen": "https://i.ytimg.com/vi/t-iqt1b2qqk/maxresdefault.jpg",
+            "video": "https://www.youtube.com/embed/t-iqt1b2qqk?si=HaMciLKuslok023B",
+            "descripcion": "Nos ofrece herramientas que nos permiten crear proyectos más avanzados, con mejores prácticas y en menor tiempo. También posee una gran comunidad, lo que nos brinda muchísima documentación y ayuda."
+        },
+        {
+            "id": 5,
+            "titulo": "¿Qué es SQL y NoSQL?",
+            "categoria": "BACKEND",
+            "imagen": "https://i.ytimg.com/vi/cLLKVd5CNLc/maxresdefault.jpg",
+            "video": "https://www.youtube.com/embed/cLLKVd5CNLc?si=MYp6WnXXQvqGSPYi",
+            "descripcion": "¿cuáles son las principales ventajas o desventajas de cada una? "
+        },
+    
+        {
+            "id": 6,
+            "titulo": "¿Qué son las Soft Skills?",
+            "categoria": "SOFT SKILLS",
+            "imagen": "https://i.ytimg.com/vi/vhwspfvI52k/maxresdefault.jpg",
+            "video": "https://www.youtube.com/embed/vhwspfvI52k?si=jWQPbz3Ph7gX03Zb",
+            "descripcion": "¿Qué son las Softskills y por qué es tan importante desarrollarlas para posicionarse en el mercado laboral? En este video de Alura Tips, Pri Stuani nos habla de las habilidades más buscadas por las empresas en sus profesionales y cómo las Soft Skills te ayudan en el día a día."
+        },
+       
+        {
+            "id": 8,
+            "titulo": "Ventajas de las metodologías Ágiles",
+            "categoria": "SOFT SKILLS",
+            "imagen": "https://i.ytimg.com/vi/p4kpHAvQH9w/mqdefault.jpg",
+            "video": "https://www.youtube.com/embed/p4kpHAvQH9w?si=fqmLwmIBBSzg93o5",
+            "descripcion": "En nuestra 6a edición del Café Punto Tech, hablaremos con Elizabeth León y Andyara Pedrosa dos expertas en area de la metodología Agile, la cual permite adaptar la forma en que un equipo trabaja a los requerimientos del proyecto. Agile es una nueva forma de trabajar, para cumplir con el desarrollo del proyecto de una manera rápida, flexible y adaptada a las circunstancias. Nuestras invitadas van a contarnos las principales ventajas de las metodologías Ágiles."
+        },
+        {
+            "id": 7,
+            "titulo": "7 Soft Skills más deseadas por las empresas",
+            "categoria": "SOFT SKILLS",
+            "imagen": "https://i.ytimg.com/vi/YhR7Zp8NUzE/maxresdefault.jpg",
+            "video": "https://www.youtube.com/embed/YhR7Zp8NUzE?si=ky6cHgq598bnyowv",
+            "descripcion": "Seguro que ya escuchaste hablar sobre las Soft Skills, pero ¿sabes cuáles son las 7 más buscadas por las empresas? Quédate en este video con nosotros que vamos a explicarte la importancia de estas habilidades y porque son tan requeridas en el mercado laboral."
+        }
+    ]
+}
